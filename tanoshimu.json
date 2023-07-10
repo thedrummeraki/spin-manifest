@@ -1,0 +1,22 @@
+{
+  "slug": "tanoshimu",
+  "description": "Your Anime. Yours alone.",
+  "details": "The next go-to anime streaming information website.",
+  "github": [
+    "https://github.com/youranime-moe/youranime.moe",
+    "https://github.com/thedrummeraki/tanoshimu-proxy",
+    "https://github.com/thedrummeraki/tanoshimu-web"
+  ],
+  "about": "https://www.akinyele.ca/projects/youranime",
+  "droplet": {
+    "config": {
+      "size": "s-2vcpu-4gb-intel",
+      "image": "ubuntu-22-04-x64",
+      "region": "tor1"
+    },
+    "on": {
+      "up": [],
+      "down": []
+    }
+  }
+}
